@@ -1,0 +1,11 @@
+{
+    "id": "risk_completion",
+    "title": "7.1 Completion and Execution Risk",
+    "prompt_instruction": "HEADLINE: Proactive engineering risk management. EVIDENCE: EPC contract type and status. IMPACT: Protection against construction delays.",
+    "mapped_metrics": [
+        "Construction Risk",
+        "EPC Contract Type",
+        "Land Acquisition",
+        "Mitigants"
+    ]
+}

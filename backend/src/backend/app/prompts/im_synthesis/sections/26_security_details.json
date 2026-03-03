@@ -1,0 +1,11 @@
+{
+    "id": "security_details",
+    "title": "6.3.1 Security & Collateral Package",
+    "prompt_instruction": "HEADLINE: Comprehensive credit protection. EVIDENCE: Primary security, Escrow, DSRA. IMPACT: Fully secured profile for the lender.",
+    "mapped_metrics": [
+        "Security Package",
+        "Collateral Security",
+        "Escrow / DSRA"
+    ],
+    "writing_framework": "Bulletized"
+}

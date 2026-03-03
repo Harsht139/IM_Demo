@@ -1,0 +1,11 @@
+{
+    "id": "risk_reg",
+    "title": "7.5 Regulatory and Policy Risk",
+    "prompt_instruction": "HEADLINE: Compliant and protected status. EVIDENCE: Regulatory framework and grandfathering. IMPACT: Legal certainty for the transaction lifespan.",
+    "mapped_metrics": [
+        "Policy Risk",
+        "Regulatory Framework",
+        "Grandfathering Clause",
+        "Mitigants"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "liquidity_coverage",
+    "title": "5.2.2 Liquidity & Coverage Ratios",
+    "prompt_instruction": "HEADLINE: Debt servicing comfort. EVIDENCE: DSCR and Interest Coverage ratios. IMPACT: Significant safety buffer against interest rate shocks.",
+    "mapped_metrics": [
+        "Interest Coverage Ratio",
+        "DSCR",
+        "Cash Flow Coverage"
+    ]
+}

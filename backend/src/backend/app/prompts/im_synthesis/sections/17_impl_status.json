@@ -1,0 +1,10 @@
+{
+    "id": "impl_status",
+    "title": "4.3 Implementation Status",
+    "prompt_instruction": "HEADLINE: De-risked execution status. EVIDENCE: Land acquisition % and EPC status. IMPACT: Minimal completion risk for the project.",
+    "mapped_metrics": [
+        "Land Acquisition",
+        "EPC Contractor",
+        "Expected Commercial Operations Date (COD)"
+    ]
+}

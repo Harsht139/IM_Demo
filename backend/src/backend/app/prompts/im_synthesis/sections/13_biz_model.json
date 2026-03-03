@@ -1,0 +1,12 @@
+{
+    "id": "biz_model",
+    "title": "3.2 Business Model and Segments",
+    "prompt_instruction": "HEADLINE: Revenue diversification. EVIDENCE: Segment contributions (Solar, EPC, O&M). IMPACT: Stability of cash flow across different business cycles.",
+    "mapped_metrics": [
+        "Revenue Stream",
+        "BOO Model",
+        "Solar Generation Contribution",
+        "EPC Contribution",
+        "O&M Contribution"
+    ]
+}

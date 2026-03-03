@@ -1,0 +1,12 @@
+{
+    "id": "site_tech",
+    "title": "4.1 Site and Technical Details",
+    "prompt_instruction": "HEADLINE: Technical robustness. EVIDENCE: Insolation data and Monocrystalline PERC tech. IMPACT: Generation efficiency and resource abundance.",
+    "mapped_metrics": [
+        "Location",
+        "Solar Insolation",
+        "Geographical Advantage",
+        "Technology Type",
+        "Expected Generation"
+    ]
+}

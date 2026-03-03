@@ -1,0 +1,11 @@
+{
+    "id": "risk_revenue",
+    "title": "7.3 Counterparty and Revenue Risk",
+    "prompt_instruction": "HEADLINE: Secured revenue stream. EVIDENCE: Offtaker profile and sovereign support. IMPACT: Lowest-possible default profile on revenue.",
+    "mapped_metrics": [
+        "Off-take Risk",
+        "Offtaker Credit",
+        "Payment Security Mechanism",
+        "Mitigants"
+    ]
+}

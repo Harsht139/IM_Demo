@@ -1,0 +1,11 @@
+{
+    "id": "conclusion",
+    "title": "8.1 Credit Assessment Summary",
+    "prompt_instruction": "HEADLINE: Strategic summary. EVIDENCE: Combination of all 7 sections. IMPACT: Final credit evaluation and viability statement.",
+    "mapped_metrics": [
+        "Overall Credit Rating",
+        "Key Strengths",
+        "Summary Risk",
+        "Conclusion"
+    ]
+}

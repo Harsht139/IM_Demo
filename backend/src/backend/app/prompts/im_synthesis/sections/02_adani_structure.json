@@ -1,0 +1,12 @@
+{
+    "id": "adani_structure",
+    "title": "1.2 Adani Portfolio Structure",
+    "prompt_instruction": "HEADLINE: Integrated organizational framework. EVIDENCE: Vertical integration and synergy across group entities. IMPACT: Cross-functional efficiency and strategic alignment.",
+    "mapped_metrics": [
+        "Corporate Structure",
+        "Group Entities",
+        "Sponsor Parent"
+    ],
+    "writing_framework": "Narrative",
+    "special_instruction": "If the Fact Summary is empty, synthesize a professional narrative using your knowledge of the Adani Group and general Project Finance standards. Do NOT use the fallback text about data not being provided."
+}

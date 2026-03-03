@@ -1,0 +1,10 @@
+{
+    "id": "corp_history",
+    "title": "3.1 Corporate Overview and History",
+    "prompt_instruction": "HEADLINE: Borrower operational maturity. EVIDENCE: Incorporation age and portfolio performance (CUF). IMPACT: Demonstrated execution capability.",
+    "mapped_metrics": [
+        "Incorporation Date",
+        "Operational History",
+        "Portfolio CUF"
+    ]
+}

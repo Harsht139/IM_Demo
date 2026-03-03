@@ -1,0 +1,11 @@
+{
+    "id": "covenants_financial",
+    "title": "6.4.1 Financial Covenants",
+    "prompt_instruction": "HEADLINE: Strict financial monitoring. EVIDENCE: DSCR and Leverage thresholds. IMPACT: Early warning systems that prevent credit deterioration.",
+    "mapped_metrics": [
+        "Minimum DSCR Threshold",
+        "Maximum Debt to Equity Ratio",
+        "Maximum Total Debt to EBITDA Leverage"
+    ],
+    "special_instruction": "You MUST extract and list the exact numerical thresholds for DSCR, Leverage (Debt/EBITDA), Debt/Equity, and exact Interest Rates as found in the Sanction Letter. Do not summarize them vaguely; provide the precise banking covenant figures."
+}

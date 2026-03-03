@@ -1,0 +1,12 @@
+{
+    "id": "loan_terms",
+    "title": "6.1.1 Core Loan Terms",
+    "prompt_instruction": "HEADLINE: Market-standard financing. EVIDENCE: Loan tenor and repayment schedule. IMPACT: Structure that matches project cash life.",
+    "mapped_metrics": [
+        "Total Debt / Loan Amount",
+        "Loan Tenor",
+        "Moratorium Period",
+        "Repayment Schedule"
+    ],
+    "writing_framework": "Bulletized"
+}

@@ -1,0 +1,11 @@
+{
+    "id": "risk_market",
+    "title": "7.4 Financial and Market Risk",
+    "prompt_instruction": "HEADLINE: Hedged financial environment. EVIDENCE: Reset clauses and hedging policies. IMPACT: Resilience against macro-economic volatility.",
+    "mapped_metrics": [
+        "Interest Rate Risk",
+        "Currency Risk",
+        "Hedging Policy",
+        "Mitigants"
+    ]
+}

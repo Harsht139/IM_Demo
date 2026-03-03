@@ -1,0 +1,11 @@
+{
+    "id": "market_dynamics",
+    "title": "2.3 Market Dynamics",
+    "prompt_instruction": "HEADLINE: Counterparty landscape. EVIDENCE: Tariff stabilization trends and DISCOM risk mitigants. IMPACT: Predictable revenue environment.",
+    "mapped_metrics": [
+        "Tariff Trends",
+        "Technology Advancements",
+        "Module Type",
+        "Counterparty Risk Mitigants"
+    ]
+}

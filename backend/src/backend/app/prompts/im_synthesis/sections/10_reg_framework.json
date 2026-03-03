@@ -1,0 +1,10 @@
+{
+    "id": "reg_framework",
+    "title": "2.2 Regulatory Framework",
+    "prompt_instruction": "HEADLINE: Stability of the policy environment. EVIDENCE: RPOs, grid connectivity policies. IMPACT: Protection against regulatory reversals.",
+    "mapped_metrics": [
+        "Regulatory Framework",
+        "Supportive Policies",
+        "RPO Targets"
+    ]
+}

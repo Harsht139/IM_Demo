@@ -1,0 +1,11 @@
+{
+    "id": "comm_struct",
+    "title": "4.2 Commercial Structure",
+    "prompt_instruction": "HEADLINE: Bankability of the revenue contract. EVIDENCE: PPA duration, tariff, and offtaker credit. IMPACT: Strong debt-service visibility.",
+    "mapped_metrics": [
+        "Offtaker",
+        "PPA Capacity",
+        "Tariff Rate",
+        "Estimated CUF"
+    ]
+}

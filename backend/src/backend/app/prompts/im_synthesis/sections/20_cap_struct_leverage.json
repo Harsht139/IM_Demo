@@ -1,0 +1,11 @@
+{
+    "id": "cap_struct_leverage",
+    "title": "5.2.1 Capital Structure & Leverage",
+    "prompt_instruction": "HEADLINE: Healthy balance sheet positioning. EVIDENCE: Total debt and Debt/EBITDA. IMPACT: Gearing ratio and additional borrowing capacity.",
+    "mapped_metrics": [
+        "Total Debt",
+        "Net Debt",
+        "Debt to EBITDA",
+        "Debt to Equity Ratio"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "sector_trends",
+    "title": "2.1 Macro Sector Trends",
+    "prompt_instruction": "HEADLINE: Sector growth trajectory. EVIDENCE: National capacity targets and market growth rates. IMPACT: Strategic alignment with government targets.",
+    "mapped_metrics": [
+        "National Capacity Target",
+        "Sector Outlook",
+        "Market Growth Rate"
+    ]
+}

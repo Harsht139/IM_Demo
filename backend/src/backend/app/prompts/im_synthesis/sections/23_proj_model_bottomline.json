@@ -1,0 +1,9 @@
+{
+    "id": "proj_model_bottomline",
+    "title": "5.3.2 Projected Net Income & Sustainability",
+    "prompt_instruction": "HEADLINE: Longevity of profitability. EVIDENCE: Projected Net Income sustainability. IMPACT: Long-term dividend/equity and principal repayment capacity.",
+    "mapped_metrics": [
+        "Projected Net Income",
+        "Projected EBITDA Margin"
+    ]
+}

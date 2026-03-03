@@ -1,0 +1,12 @@
+{
+    "id": "adani_overview",
+    "title": "1.1 Adani Portfolio Overview",
+    "prompt_instruction": "HEADLINE: Massive scale and diversified portfolio. EVIDENCE: Global presence, total assets, and sector leadership. IMPACT: Strength and stability of the group.",
+    "mapped_metrics": [
+        "Adani Group Scale",
+        "Sponsor Portfolio",
+        "Sponsor Market Cap"
+    ],
+    "writing_framework": "Narrative",
+    "special_instruction": "If the Fact Summary is empty, synthesize a professional narrative using your knowledge of the Adani Group and general Project Finance standards. Do NOT use the fallback text about data not being provided."
+}

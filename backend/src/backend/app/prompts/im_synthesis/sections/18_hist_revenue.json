@@ -1,0 +1,9 @@
+{
+    "id": "hist_revenue",
+    "title": "5.1.1 Historical Revenue Analysis",
+    "prompt_instruction": "HEADLINE: Revenue growth trend. EVIDENCE: Historical revenue metrics and CAGR. IMPACT: Proof of the borrower revenue-generating power.",
+    "mapped_metrics": [
+        "Revenue",
+        "Historical Revenue"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": "pricing_fees",
+    "title": "6.1.2 Pricing, Interest & Fees",
+    "prompt_instruction": "HEADLINE: Competitive pricing. EVIDENCE: Benchmark linkage and upfront fees. IMPACT: Cost-effective financing that doesn not weight on IRR.",
+    "mapped_metrics": [
+        "Interest Rate",
+        "Benchmark Rate",
+        "Processing Fee",
+        "Upfront Fee",
+        "Penal Interest",
+        "Prepayment Premium"
+    ],
+    "writing_framework": "Bulletized"
+}

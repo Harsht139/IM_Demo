@@ -1,0 +1,11 @@
+{
+    "id": "project_overview",
+    "title": "1.4 Project Overview",
+    "prompt_instruction": "HEADLINE: Strategic asset summary. EVIDENCE: Project capacity, location, and key technical parameters. IMPACT: Core revenue generator for the facility.",
+    "mapped_metrics": [
+        "Capacity",
+        "Technology Type",
+        "Location",
+        "Project Purpose"
+    ]
+}

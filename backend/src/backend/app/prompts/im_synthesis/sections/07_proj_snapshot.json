@@ -1,0 +1,13 @@
+{
+    "id": "proj_snapshot",
+    "title": "1.7 Project Snapshot",
+    "prompt_instruction": "HEADLINE: Technical core of the project. EVIDENCE: Capacity, technology, and location. IMPACT: Operational viability and technology-specific advantages.",
+    "mapped_metrics": [
+        "Capacity",
+        "Technology Type",
+        "Location",
+        "Offtaker",
+        "PPA Duration",
+        "Tariff Rate"
+    ]
+}

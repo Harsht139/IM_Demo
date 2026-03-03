@@ -1,0 +1,12 @@
+{
+    "id": "cps_drawdown",
+    "title": "6.5.1 Conditions Precedent to Drawdown",
+    "prompt_instruction": "HEADLINE: Readiness for implementation. EVIDENCE: Equity proof, legal resolutions, and closure. IMPACT: Ensuring no procedural delays before first drawdown.",
+    "mapped_metrics": [
+        "Equity Injection",
+        "Conditions Precedent",
+        "Legal Opinion",
+        "Financial Closure"
+    ],
+    "writing_framework": "Bulletized"
+}

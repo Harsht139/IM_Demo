@@ -1,0 +1,11 @@
+{
+    "id": "risk_ops",
+    "title": "7.2 Operational and Resource Risk",
+    "prompt_instruction": "HEADLINE: Stability of long-term generation. EVIDENCE: Resource data and O&M contracts. IMPACT: Consistently delivering projected cash flows.",
+    "mapped_metrics": [
+        "Operational Risk",
+        "O&M Status",
+        "Equipment Supplier",
+        "Mitigants"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "id": "covenants_non_financial",
+    "title": "6.4.2 Non-Financial Covenants",
+    "prompt_instruction": "HEADLINE: Robust reporting requirements. EVIDENCE: Affirmative/Negative covenant lists. IMPACT: Transparency and lender control over core operations.",
+    "mapped_metrics": [
+        "Affirmative Covenants",
+        "Negative Covenants"
+    ]
+}

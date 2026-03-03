@@ -1,0 +1,11 @@
+{
+    "id": "guarantees",
+    "title": "6.3.2 Corporate & Personal Guarantees",
+    "prompt_instruction": "HEADLINE: Strong guarantor backing. EVIDENCE: Corporate guarantee names and personal backing. IMPACT: Credit enhancement beyond the project asset.",
+    "mapped_metrics": [
+        "Guarantor",
+        "Corporate Guarantee",
+        "Personal Guarantee"
+    ],
+    "writing_framework": "Bulletized"
+}

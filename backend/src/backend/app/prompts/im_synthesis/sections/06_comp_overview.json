@@ -1,0 +1,13 @@
+{
+    "id": "comp_overview",
+    "title": "1.6 Company Overview",
+    "prompt_instruction": "HEADLINE: The borrower position in the market. EVIDENCE: Sponsor background and operational capacity. IMPACT: Reliability and experience of the borrowing entity.",
+    "mapped_metrics": [
+        "Sponsor",
+        "Sponsor Parent",
+        "Operational Capacity",
+        "Business Model"
+    ],
+    "writing_framework": "Narrative",
+    "special_instruction": "If the Fact Summary is empty, synthesize a professional narrative using your knowledge of the Adani Group and general Project Finance standards. Do NOT use the fallback text about data not being provided."
+}

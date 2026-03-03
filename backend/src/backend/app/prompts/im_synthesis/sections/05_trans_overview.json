@@ -1,0 +1,13 @@
+{
+    "id": "trans_overview",
+    "title": "1.5 Transaction Overview",
+    "prompt_instruction": "HEADLINE: Summarize the financing request. EVIDENCE: Facility amount, type, and purpose. IMPACT: How this transaction supports the borrower strategic growth.",
+    "mapped_metrics": [
+        "Borrower",
+        "Total Debt / Loan Amount",
+        "Facility Type",
+        "Project Purpose",
+        "Total Project Cost",
+        "Debt to Equity Ratio"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "inv_highlights",
+    "title": "1.8 Key Investment Highlights",
+    "prompt_instruction": "HEADLINE: Top credit strengths. EVIDENCE: PPA sovereign nature, sponsor track record, DSCR. IMPACT: Investment-grade quality of the deal profile.",
+    "mapped_metrics": [
+        "PPA Nature",
+        "Sponsor Track Record",
+        "DSCR",
+        "Key Strengths"
+    ],
+    "writing_framework": "Bulletized"
+}

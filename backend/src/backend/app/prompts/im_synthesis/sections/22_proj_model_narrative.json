@@ -1,0 +1,11 @@
+{
+    "id": "proj_model_narrative",
+    "title": "5.3.1 Projected Financial Trajectory",
+    "prompt_instruction": "HEADLINE: Strong forecasted growth. EVIDENCE: Projected Revenue/EBITDA arrays. IMPACT: Future financial viability and ROI.",
+    "mapped_metrics": [
+        "Projected Revenue",
+        "Projected EBITDA",
+        "Projected Opex"
+    ],
+    "special_instruction": "LLM MUST explicitly address the EBITDA reconciliation here. Flag that Annual Report historically stated one EBITDA figure, while the revised management Financial Model projects a different baseline. Add a Reconciliation Note."
+}

@@ -1,0 +1,11 @@
+{
+    "id": "hist_profit",
+    "title": "5.1.2 Profitability & Margins (EBITDA/PAT)",
+    "prompt_instruction": "HEADLINE: Operational efficiency. EVIDENCE: EBITDA margin and PAT growth. IMPACT: Robust cash surplus availability for debt servicing.",
+    "mapped_metrics": [
+        "EBITDA",
+        "Net Profit / PAT",
+        "EBITDA Margin",
+        "Operating Costs"
+    ]
+}
